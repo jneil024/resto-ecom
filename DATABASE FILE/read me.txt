@@ -1,0 +1,6 @@
+open xampp
+open apache and mysql
+tapos create db name "onlinefoodphp"
+tapos import mo to tong sql
+tapos open browser to localhost/milktea
+note: dapat etong folder nakalagay sa xampp/htdocs
