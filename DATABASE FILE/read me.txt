@@ -7,3 +7,4 @@ note: dapat etong folder nakalagay sa xampp/htdocs
 account :
 test1:123 (user)
 test3:123 (admin)
+#ayusin nyu buhay nyo
